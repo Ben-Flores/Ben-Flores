@@ -10,8 +10,8 @@
 
 ### About Me
 - 🔭 I’m currently working on a Java Swing aim trainer
-- 🌱 I’m currently learning Java Swing and Python
+- 🌱 I’m learning Java Swing and Python
 - 👯 I’m looking to collaborate on open-source desktop applications
-- 🤔 I’m looking for help with learning mobile app programming
+- 🤔 I’m interested in help with learning mobile app programming
 - 📫 How to reach me: [my email](mailto:bflores133514@mymail.tstc.edu)
 - ⚡ Fun fact: I have lost a chess game in 4 moves multiple times
