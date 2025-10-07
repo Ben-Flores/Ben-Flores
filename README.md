@@ -13,5 +13,5 @@
 - 🌱 I’m learning Java Swing and Python
 - 👯 I’m looking to collaborate on open-source desktop applications
 - 🤔 I’m interested in help with learning mobile app programming
-- 📫 How to reach me: [my email](mailto:bflores133514@mymail.tstc.edu)
+- 📫 How to reach me: [my email](mailto:flores.b.benjamin@gmail.com)
 - ⚡ Fun fact: I have lost a chess game in 4 moves multiple times
